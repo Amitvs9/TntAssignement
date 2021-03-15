@@ -24,6 +24,7 @@ spring-boot
 maven
 
 #Pending
-  There are some reducndent code that can be refactor & optimize.
+
+  There are some redundant code that can be refactor & optimize.
   Junit test cases .
 
